@@ -30,10 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=62F40BE8-0F02-4ED0-A204-9F59071B7C8E
+ManagedProjectGUID=5FC66824-5B12-4FE1-9D9E-4A016B43D6B0
 VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71
 ReleaseVaultName=Stanford Student Space Initiative
-ItemGUID=62F40BE8-0F02-4ED0-A204-9F59071B7C8E
+ItemGUID=5FC66824-5B12-4FE1-9D9E-4A016B43D6B0
 IncludeDesignInRelease=0
 
 [Preferences]
